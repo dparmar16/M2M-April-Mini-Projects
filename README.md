@@ -18,3 +18,7 @@ Happy April.
 #### Update 1 - 04/07/19
 
 Used [polling data from FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/polls) to analyze the current state of the Democratic primary.
+
+#### Update 2 - 04/14/19
+
+Used [endorsements data from FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/endorsements) to analyze the Democratic field from a new perspective.
