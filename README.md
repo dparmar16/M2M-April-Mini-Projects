@@ -22,3 +22,7 @@ Used [polling data from FiveThirtyEight](https://github.com/fivethirtyeight/data
 #### Update 2 - 04/14/19
 
 Used [endorsements data from FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/endorsements) to analyze the Democratic field from a new perspective.
+
+#### Update 2 - 04/21/19
+
+Used [Trump approval rating data from FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/trump-approval-ratings) to analyze how his popularity has moved over time.
